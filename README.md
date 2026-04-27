@@ -9,13 +9,11 @@
 
 Frontend developer (junior) who has already dealt with more than just buttons — including real production issues.
 
-I like when UI looks clean and the logic behind it doesn’t make you want to rewrite everything from scratch.
-
 ---
 
 ## 🧠 About me
 
-* 🎓 Completed frontend development training
+* 🎓 Completed frontend development training in School 21 by Sber
 * 💼 6 months internship experience (not just “change button color”)
 * ⚡ I enjoy seeing results fast — that’s why I like UI + logic
 * 🔧 Not afraid of diving into legacy code and making it better
@@ -26,8 +24,7 @@ I like when UI looks clean and the logic behind it doesn’t make you want to re
 
 **Core:**
 
-* TypeScript (my favorite)
-* JavaScript
+* JavaScript, TypeScript (my favorite)
 * React
 
 **State management:**
@@ -62,18 +59,6 @@ During my internship:
 
 ---
 
-## 💡 How I work
-
-I don’t just “make things work”.
-
-I care about:
-
-* writing code that’s readable even a month later
-* building UI that doesn’t break from one extra div
-* making logic understandable, not “some magic happened”
-
----
-
 ## 🧩 Outside of code
 
 Worked for a year as an administrator in a hookah lounge —
@@ -82,23 +67,3 @@ so I know how to:
 * deal with people in stressful situations
 * make decisions quickly
 * stay calm when things go sideways
-
-(turns out it’s useful in development too)
-
----
-
-## 📬 Contact
-
-* Telegram: **@your_nickname**
-
----
-
-## ⚡ Currently
-
-* improving React and architecture skills
-* going deeper into TypeScript
-* building projects worth showing
-
----
-
-*If you made it this far — the README already did its job 😏*
